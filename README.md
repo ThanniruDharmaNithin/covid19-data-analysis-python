@@ -1,5 +1,11 @@
 # 🌍 COVID-19 Global Data Analysis using Python
 
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-yellow)
+
 ## 📌 Project Overview
 
 The **COVID-19 pandemic** was one of the most significant global health crises in modern history. Governments and healthcare organizations relied heavily on **data analysis and visualization** to monitor the spread of the virus and implement effective control measures.
